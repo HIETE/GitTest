@@ -1,1 +1,0 @@
-D:\GitTest\GitTest\GitTest.csproj;neutral

@@ -26,5 +26,16 @@ namespace GitTest
         {
             this.InitializeComponent();
         }
+
+
+        public void Test()
+        {
+
+        }
+
+
+
+
+
     }
 }
